@@ -11,7 +11,7 @@ about:
   icon: https://avatars.githubusercontent.com/u/33938028?s=200&v=4
 source:
   project: https://github.com/EduBase/MCP
-  commit: 327a66790b2aa4aa83be6303398145a3b5e520fc
+  commit: e0167d1daafb17a15fe239ae8c4ac7f730f2d411
 config:
   description: Configure the connection to EduBase
   secrets:
